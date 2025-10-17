@@ -7,9 +7,9 @@ Ideal para estudos, portfólio ou como base para projetos com gerenciamento de e
 
 ## 🚀 Tecnologias Utilizadas
 
-- ⚛️ **React** (com Vite)
+- ⚛️ **React**
 - 🧠 **TypeScript**
-- 🎨 **CSS Modules** / **Tailwind CSS** (opcional)
+- 🎨 **CSS Modules**
 - 🔄 **React Hooks** (useState, useEffect)
 - 💾 **LocalStorage** (para persistência local)
 
